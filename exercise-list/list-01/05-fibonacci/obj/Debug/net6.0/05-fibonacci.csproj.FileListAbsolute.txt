@@ -1,0 +1,15 @@
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/05-fibonacci/obj/Debug/net6.0/05-fibonacci.csproj.AssemblyReference.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/05-fibonacci/obj/Debug/net6.0/05-fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/05-fibonacci/obj/Debug/net6.0/05-fibonacci.AssemblyInfoInputs.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/05-fibonacci/obj/Debug/net6.0/05-fibonacci.AssemblyInfo.cs
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/05-fibonacci/obj/Debug/net6.0/05-fibonacci.csproj.CoreCompileInputs.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/05-fibonacci/bin/Debug/net6.0/05-fibonacci
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/05-fibonacci/bin/Debug/net6.0/05-fibonacci.deps.json
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/05-fibonacci/bin/Debug/net6.0/05-fibonacci.runtimeconfig.json
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/05-fibonacci/bin/Debug/net6.0/05-fibonacci.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/05-fibonacci/bin/Debug/net6.0/05-fibonacci.pdb
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/05-fibonacci/obj/Debug/net6.0/05-fibonacci.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/05-fibonacci/obj/Debug/net6.0/refint/05-fibonacci.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/05-fibonacci/obj/Debug/net6.0/05-fibonacci.pdb
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/05-fibonacci/obj/Debug/net6.0/05-fibonacci.genruntimeconfig.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/05-fibonacci/obj/Debug/net6.0/ref/05-fibonacci.dll

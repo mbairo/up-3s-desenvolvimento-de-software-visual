@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "H6ke4TdwzQq6OV1moqyv5b8ClFr7IpsjeQ6Y9td4zVw1Fc3heiIBMc7OI4u6VJ7VvTQ+Kd6+caH/XdzgpivXNw==",
+  "success": true,
+  "projectFilePath": "/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/Trabalho-webapi/Trabalho/Trabalho.csproj",
+  "expectedPackageFiles": [
+    "/home/mbairo/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/mbairo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/mbairo/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/mbairo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/mbairo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/mbairo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

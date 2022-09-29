@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "list-03-professor/1.0.0": {
+        "runtime": {
+          "list-03-professor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "list-03-professor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

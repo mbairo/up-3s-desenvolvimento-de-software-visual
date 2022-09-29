@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "03-maior-e-menor/1.0.0": {
+        "runtime": {
+          "03-maior-e-menor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03-maior-e-menor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

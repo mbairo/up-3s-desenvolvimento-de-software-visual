@@ -1,0 +1,15 @@
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/lista2/ex3/bin/Debug/net6.0/ex3
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/lista2/ex3/bin/Debug/net6.0/ex3.deps.json
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/lista2/ex3/bin/Debug/net6.0/ex3.runtimeconfig.json
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/lista2/ex3/bin/Debug/net6.0/ex3.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/lista2/ex3/bin/Debug/net6.0/ex3.pdb
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/lista2/ex3/obj/Debug/net6.0/ex3.csproj.AssemblyReference.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/lista2/ex3/obj/Debug/net6.0/ex3.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/lista2/ex3/obj/Debug/net6.0/ex3.AssemblyInfoInputs.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/lista2/ex3/obj/Debug/net6.0/ex3.AssemblyInfo.cs
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/lista2/ex3/obj/Debug/net6.0/ex3.csproj.CoreCompileInputs.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/lista2/ex3/obj/Debug/net6.0/ex3.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/lista2/ex3/obj/Debug/net6.0/refint/ex3.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/lista2/ex3/obj/Debug/net6.0/ex3.pdb
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/lista2/ex3/obj/Debug/net6.0/ex3.genruntimeconfig.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/Professor/lista2/ex3/obj/Debug/net6.0/ref/ex3.dll

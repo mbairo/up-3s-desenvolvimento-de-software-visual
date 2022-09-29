@@ -1,0 +1,5 @@
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/numPorExtenso/obj/Debug/net6.0/numPorExtenso.csproj.AssemblyReference.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/numPorExtenso/obj/Debug/net6.0/numPorExtenso.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/numPorExtenso/obj/Debug/net6.0/numPorExtenso.AssemblyInfoInputs.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/numPorExtenso/obj/Debug/net6.0/numPorExtenso.AssemblyInfo.cs
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/numPorExtenso/obj/Debug/net6.0/numPorExtenso.csproj.CoreCompileInputs.cache

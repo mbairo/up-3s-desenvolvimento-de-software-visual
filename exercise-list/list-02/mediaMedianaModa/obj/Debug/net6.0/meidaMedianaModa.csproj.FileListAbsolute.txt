@@ -1,0 +1,15 @@
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/aula03/mediaMedianaModa/bin/Debug/net6.0/meidaMedianaModa
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/aula03/mediaMedianaModa/bin/Debug/net6.0/meidaMedianaModa.deps.json
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/aula03/mediaMedianaModa/bin/Debug/net6.0/meidaMedianaModa.runtimeconfig.json
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/aula03/mediaMedianaModa/bin/Debug/net6.0/meidaMedianaModa.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/aula03/mediaMedianaModa/bin/Debug/net6.0/meidaMedianaModa.pdb
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/aula03/mediaMedianaModa/obj/Debug/net6.0/meidaMedianaModa.csproj.AssemblyReference.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/aula03/mediaMedianaModa/obj/Debug/net6.0/meidaMedianaModa.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/aula03/mediaMedianaModa/obj/Debug/net6.0/meidaMedianaModa.AssemblyInfoInputs.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/aula03/mediaMedianaModa/obj/Debug/net6.0/meidaMedianaModa.AssemblyInfo.cs
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/aula03/mediaMedianaModa/obj/Debug/net6.0/meidaMedianaModa.csproj.CoreCompileInputs.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/aula03/mediaMedianaModa/obj/Debug/net6.0/meidaMedianaModa.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/aula03/mediaMedianaModa/obj/Debug/net6.0/refint/meidaMedianaModa.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/aula03/mediaMedianaModa/obj/Debug/net6.0/meidaMedianaModa.pdb
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/aula03/mediaMedianaModa/obj/Debug/net6.0/meidaMedianaModa.genruntimeconfig.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/aula03/mediaMedianaModa/obj/Debug/net6.0/ref/meidaMedianaModa.dll

@@ -1,0 +1,15 @@
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/stringToInt/bin/Debug/net6.0/stringToInt
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/stringToInt/bin/Debug/net6.0/stringToInt.deps.json
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/stringToInt/bin/Debug/net6.0/stringToInt.runtimeconfig.json
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/stringToInt/bin/Debug/net6.0/stringToInt.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/stringToInt/bin/Debug/net6.0/stringToInt.pdb
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/stringToInt/obj/Debug/net6.0/stringToInt.csproj.AssemblyReference.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/stringToInt/obj/Debug/net6.0/stringToInt.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/stringToInt/obj/Debug/net6.0/stringToInt.AssemblyInfoInputs.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/stringToInt/obj/Debug/net6.0/stringToInt.AssemblyInfo.cs
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/stringToInt/obj/Debug/net6.0/stringToInt.csproj.CoreCompileInputs.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/stringToInt/obj/Debug/net6.0/stringToInt.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/stringToInt/obj/Debug/net6.0/refint/stringToInt.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/stringToInt/obj/Debug/net6.0/stringToInt.pdb
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/stringToInt/obj/Debug/net6.0/stringToInt.genruntimeconfig.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-02/stringToInt/obj/Debug/net6.0/ref/stringToInt.dll

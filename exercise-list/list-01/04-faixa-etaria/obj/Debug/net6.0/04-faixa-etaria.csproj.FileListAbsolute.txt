@@ -1,0 +1,15 @@
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/04-faixa-etaria/bin/Debug/net6.0/04-faixa-etaria
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/04-faixa-etaria/bin/Debug/net6.0/04-faixa-etaria.deps.json
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/04-faixa-etaria/bin/Debug/net6.0/04-faixa-etaria.runtimeconfig.json
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/04-faixa-etaria/bin/Debug/net6.0/04-faixa-etaria.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/04-faixa-etaria/bin/Debug/net6.0/04-faixa-etaria.pdb
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/04-faixa-etaria/obj/Debug/net6.0/04-faixa-etaria.csproj.AssemblyReference.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/04-faixa-etaria/obj/Debug/net6.0/04-faixa-etaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/04-faixa-etaria/obj/Debug/net6.0/04-faixa-etaria.AssemblyInfoInputs.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/04-faixa-etaria/obj/Debug/net6.0/04-faixa-etaria.AssemblyInfo.cs
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/04-faixa-etaria/obj/Debug/net6.0/04-faixa-etaria.csproj.CoreCompileInputs.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/04-faixa-etaria/obj/Debug/net6.0/04-faixa-etaria.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/04-faixa-etaria/obj/Debug/net6.0/refint/04-faixa-etaria.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/04-faixa-etaria/obj/Debug/net6.0/04-faixa-etaria.pdb
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/04-faixa-etaria/obj/Debug/net6.0/04-faixa-etaria.genruntimeconfig.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/exercise-list/list-01/04-faixa-etaria/obj/Debug/net6.0/ref/04-faixa-etaria.dll

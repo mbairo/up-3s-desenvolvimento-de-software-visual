@@ -1,0 +1,15 @@
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/cadastro-hash/bin/Debug/net6.0/cadastro-hash
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/cadastro-hash/bin/Debug/net6.0/cadastro-hash.deps.json
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/cadastro-hash/bin/Debug/net6.0/cadastro-hash.runtimeconfig.json
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/cadastro-hash/bin/Debug/net6.0/cadastro-hash.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/cadastro-hash/bin/Debug/net6.0/cadastro-hash.pdb
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/cadastro-hash/obj/Debug/net6.0/cadastro-hash.csproj.AssemblyReference.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/cadastro-hash/obj/Debug/net6.0/cadastro-hash.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/cadastro-hash/obj/Debug/net6.0/cadastro-hash.AssemblyInfoInputs.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/cadastro-hash/obj/Debug/net6.0/cadastro-hash.AssemblyInfo.cs
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/cadastro-hash/obj/Debug/net6.0/cadastro-hash.csproj.CoreCompileInputs.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/cadastro-hash/obj/Debug/net6.0/cadastro-hash.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/cadastro-hash/obj/Debug/net6.0/refint/cadastro-hash.dll
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/cadastro-hash/obj/Debug/net6.0/cadastro-hash.pdb
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/cadastro-hash/obj/Debug/net6.0/cadastro-hash.genruntimeconfig.cache
+/home/mbairo/workspaces/up/3s/up-3s-desenvolvimento-de-software-visual/cadastro-hash/obj/Debug/net6.0/ref/cadastro-hash.dll
